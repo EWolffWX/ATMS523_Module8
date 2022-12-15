@@ -1,3 +1,4 @@
+# Module 8
 This repository contains all work created for the ATMS 523 final project. The 
 actual assignment submission is located in the Module8_Notebook jupyter 
 notebook. Other notebooks used for testing ideas and creating supplemental 
